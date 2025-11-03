@@ -1,0 +1,14 @@
+=== Resultado ===
+
+=== Resultado ===
+[PERDEDOR] Daniel mendoza | PJ:anakin | Prof:Guerrero | Vida:0.00 | Est:35.00
+[GANADOR] carlos uresti | PJ:obiwan | Prof:Guerrero | Vida:18.00 | Est:30.00
+
+=== Resultado ===
+[PERDEDOR] Daniel Rdz | PJ:Darth | Prof:Guerrero | Vida:0.00 | Est:9.00
+[GANADOR] Vader Car | PJ:lord | Prof:Guerrero | Vida:1.00 | Est:23.00
+
+=== Resultado ===
+[GANADOR] jav rod | PJ:anakin | Prof:Guerrero | Vida:12.00 | Est:25.00
+[PERDEDOR] daniel mendoza | PJ:darth | Prof:Guerrero | Vida:0.00 | Est:32.00
+
